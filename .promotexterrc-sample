@@ -1,0 +1,12 @@
+{
+	"file": {
+		"dirname": "logs",
+		"filename": "promotexter"
+	},
+	"mongodb": {
+		"level"      : "info",
+		"db"         : "promotexter",
+		"collection" : "logs",
+		"host"       : "localhost"
+	}
+}
